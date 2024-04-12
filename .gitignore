@@ -1,1 +1,11 @@
 *\output
+*\log
+*\contents\*
+*\tmp
+*\venv_ml
+*.h5
+*.keras
+*.jpg
+*.jpeg
+*.JPEG
+*.zip
